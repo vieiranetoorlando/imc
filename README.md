@@ -1,6 +1,6 @@
 # Calculadora de IMC em JavaScript, HTML e CSS
 
-![Calculadora de IMC](link_para_imagem.png)
+![Calculadora de IMC](./assets/img/print.PNG)
 
 ## Descrição
 
