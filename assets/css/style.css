@@ -57,7 +57,11 @@ form button:hover {
   background: var(--primary-color-darker);
 }
 
-.paragrafo-resultado{
-  background: rgb(28, 187, 63);
+.paragrafo-resultado, .bad{
+  background: rgb(77, 177, 99);
   padding: 10px 20px;
+}
+
+.bad {
+  background: rgb(189, 65, 65);
 }
